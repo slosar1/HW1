@@ -1,0 +1,10 @@
+C:\Programming 2\Hw1\bin\Debug\netcoreapp2.0\HW1.deps.json
+C:\Programming 2\Hw1\bin\Debug\netcoreapp2.0\HW1.runtimeconfig.json
+C:\Programming 2\Hw1\bin\Debug\netcoreapp2.0\HW1.runtimeconfig.dev.json
+C:\Programming 2\Hw1\bin\Debug\netcoreapp2.0\HW1.dll
+C:\Programming 2\Hw1\bin\Debug\netcoreapp2.0\HW1.pdb
+C:\Programming 2\Hw1\obj\Debug\netcoreapp2.0\HW1.csproj.CoreCompileInputs.cache
+C:\Programming 2\Hw1\obj\Debug\netcoreapp2.0\HW1.AssemblyInfoInputs.cache
+C:\Programming 2\Hw1\obj\Debug\netcoreapp2.0\HW1.AssemblyInfo.cs
+C:\Programming 2\Hw1\obj\Debug\netcoreapp2.0\HW1.dll
+C:\Programming 2\Hw1\obj\Debug\netcoreapp2.0\HW1.pdb
